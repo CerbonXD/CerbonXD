@@ -1,4 +1,4 @@
-## Hi, my name is Felipe, I'm still a student trying to get better in programing.
+## Hello! My name is Felipe✌️
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CerbonXD&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
