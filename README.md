@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cerbonxd.vercel.app/api?username=CerbonXD&show_icons=true&include_all_commits=true&theme=ayu-mirage&bg_color=00000000&hide_border=true"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CerbonXD&show_icons=true&include_all_commits=true&theme=ayu-mirage&bg_color=00000000&hide_border=true"/>
   </a>
 </div>
 
